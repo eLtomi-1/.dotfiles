@@ -1,0 +1,4 @@
+{
+  "notifyChildSessions": false,
+  "terminal": "ghostty",
+}
